@@ -1,1 +1,1 @@
-Blog-Clone
+Blog-Clone Project using Python and Django
